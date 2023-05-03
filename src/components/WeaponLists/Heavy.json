@@ -1,0 +1,84 @@
+{
+    "primaries" : [
+        {
+            "name" : "Minigun",
+            "image" : "https://wiki.teamfortress.com/w/images/1/1f/Backpack_Minigun.png"
+        },
+        {
+            "name" : "Natascha",
+            "image" : "https://wiki.teamfortress.com/w/images/f/f2/Backpack_Natascha.png"
+        },
+        {
+            "name" : "Brass Beast",
+            "image" : "https://wiki.teamfortress.com/w/images/1/14/Backpack_Brass_Beast.png"
+        },
+        {
+            "name" : "Tomislav",
+            "image" : "https://wiki.teamfortress.com/w/images/d/d4/Backpack_Tomislav.png"
+        },
+        {
+            "name" : "Huo-Long Heater",
+            "image" : "https://wiki.teamfortress.com/w/images/c/cb/Backpack_Huo-Long_Heater.png"
+        }
+    ],
+    "secondaries" : [
+        {
+            "name" : "Shotgun",
+            "image" : "https://wiki.teamfortress.com/w/images/c/c9/Backpack_Shotgun.png"
+        },
+        {
+            "name" : "Sandvich",
+            "image" : "https://wiki.teamfortress.com/w/images/f/f4/Backpack_Sandvich.png"
+        },
+        {
+            "name" : "Dalokohs Bar",
+            "image" : "https://wiki.teamfortress.com/w/images/9/9c/Backpack_Dalokohs_Bar.png"
+        },
+        {
+            "name" : "Buffalo Steak Sandvich",
+            "image" : "https://wiki.teamfortress.com/w/images/0/03/Backpack_Buffalo_Steak_Sandvich.png"
+        },
+        {
+            "name" : "Family Business",
+            "image" : "https://wiki.teamfortress.com/w/images/5/56/Backpack_Family_Business.png"
+        },
+        {
+            "name" : "Panic Attack",
+            "image" : "https://wiki.teamfortress.com/w/images/b/b1/Backpack_Panic_Attack.png"
+        },
+        {
+            "name" : "Second Banana",
+            "image" : "https://wiki.teamfortress.com/w/images/5/57/Backpack_Second_Banana.png"
+        }
+    ],
+    "melees" : [
+        {
+            "name" : "Fists",
+            "image" : "https://wiki.teamfortress.com/w/images/c/c4/Backpack_Fists.png"
+        },
+        {
+            "name" : "Killing Gloves of Boxing",
+            "image" : "https://wiki.teamfortress.com/w/images/6/6e/Backpack_Killing_Gloves_of_Boxing.png"
+        },
+        {
+            "name" : "Gloves of Running Urgently",
+            "image" : "https://wiki.teamfortress.com/w/images/8/83/Backpack_Gloves_of_Running_Urgently.png"
+        },
+        {
+            "name" : "Warrior's Spirit",
+            "image" : "https://wiki.teamfortress.com/w/images/5/5d/Backpack_Warrior%27s_Spirit.png"
+        },
+        {
+            "name" : "Fists of Steel",
+            "image" : "https://wiki.teamfortress.com/w/images/6/6c/Backpack_Fists_of_Steel.png"
+        },
+        {
+            "name" : "Eviction Notice",
+            "image" : "https://wiki.teamfortress.com/w/images/8/88/Backpack_Eviction_Notice.png"
+        },
+        {
+            "name" : "Holiday Punch",
+            "image" : "https://wiki.teamfortress.com/w/images/3/37/Backpack_Holiday_Punch.png"
+        }
+    ]
+}

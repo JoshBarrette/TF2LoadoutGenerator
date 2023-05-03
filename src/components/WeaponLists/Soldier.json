@@ -1,0 +1,108 @@
+{
+    "primaries" : [
+        {
+            "name" : "Rocket Launcher",
+            "image" : "https://wiki.teamfortress.com/w/images/1/1d/Backpack_Rocket_Launcher.png"
+        },
+        {
+            "name" : "Direct Hit",
+            "image" : "https://wiki.teamfortress.com/w/images/b/bc/Backpack_Direct_Hit.png"
+        },
+        {
+            "name" : "Black Box",
+            "image" : "https://wiki.teamfortress.com/w/images/7/7e/Backpack_Black_Box.png"
+        },
+        {
+            "name" : "Rocket Jumper",
+            "image" : "https://wiki.teamfortress.com/w/images/8/88/Backpack_Rocket_Jumper.png"
+        },
+        {
+            "name" : "Liberty Launcher",
+            "image" : "https://wiki.teamfortress.com/w/images/1/1e/Backpack_Liberty_Launcher.png"
+        },
+        {
+            "name" : "Cow Mangler 5000",
+            "image" : "https://wiki.teamfortress.com/w/images/9/95/Backpack_Cow_Mangler_5000.png"
+        },
+        {
+            "name" : "Beggar's Bazooka",
+            "image" : "https://wiki.teamfortress.com/w/images/8/83/Backpack_Beggar%27s_Bazooka.png"
+        },
+        {
+            "name" : "Air Strike",
+            "image" : "https://wiki.teamfortress.com/w/images/6/68/Backpack_Air_Strike.png"
+        }
+    ],
+    "secondaries" : [
+        {
+            "name" : "Shotgun",
+            "image" : "https://wiki.teamfortress.com/w/images/c/c9/Backpack_Shotgun.png"
+        },
+        {
+            "name" : "Buff Banner",
+            "image" : "https://wiki.teamfortress.com/w/images/7/73/Backpack_Buff_Banner.png"
+        },
+        {
+            "name" : "Gunboats",
+            "image" : "https://wiki.teamfortress.com/w/images/8/88/Backpack_Gunboats.png"
+        },
+        {
+            "name" : "Battalion's Backup",
+            "image" : "https://wiki.teamfortress.com/w/images/7/70/Backpack_Battalion%27s_Backup.png"
+        },
+        {
+            "name" : "Concheror",
+            "image" : "https://wiki.teamfortress.com/w/images/a/af/Backpack_Concheror.png"
+        },
+        {
+            "name" : "Mantreads",
+            "image" : "https://wiki.teamfortress.com/w/images/3/32/Backpack_Mantreads.png"
+        },
+        {
+            "name" : "Reserve Shooter",
+            "image" : "https://wiki.teamfortress.com/w/images/0/0f/Backpack_Reserve_Shooter.png"
+        },
+        {
+            "name" : "Righteous Bison",
+            "image" : "https://wiki.teamfortress.com/w/images/8/85/Backpack_Righteous_Bison.png"
+        },
+        {
+            "name" : "B.A.S.E. Jumper",
+            "image" : "https://wiki.teamfortress.com/w/images/e/e3/Backpack_B.A.S.E._Jumper.png"
+        },
+        {
+            "name" : "Panic Attack",
+            "image" : "https://wiki.teamfortress.com/w/images/b/b1/Backpack_Panic_Attack.png"
+        }
+    ],
+    "melees" : [
+        {
+            "name" : "Shovel",
+            "image" : "https://wiki.teamfortress.com/w/images/c/c6/Backpack_Shovel.png"
+        },
+        {
+            "name" : "Equalize",
+            "image" : "https://wiki.teamfortress.com/w/images/b/b5/Backpack_Equalizer.png"
+        },
+        {
+            "name" : "Pain Train",
+            "image" : "https://wiki.teamfortress.com/w/images/3/35/Backpack_Pain_Train.png"
+        },
+        {
+            "name" : "Half-Zatoichi",
+            "image" : "https://wiki.teamfortress.com/w/images/5/58/Backpack_Half-Zatoichi.png"
+        },
+        {
+            "name" : "Disciplinary Action",
+            "image" : "https://wiki.teamfortress.com/w/images/8/8e/Backpack_Disciplinary_Action.png"
+        },
+        {
+            "name" : "Market Gardener",
+            "image" : "https://wiki.teamfortress.com/w/images/d/db/Backpack_Market_Gardener.png"
+        },
+        {
+            "name" : "Escape Plan",
+            "image" : "https://wiki.teamfortress.com/w/images/1/17/Backpack_Escape_Plan.png"
+        }
+    ]
+}

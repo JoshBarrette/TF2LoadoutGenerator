@@ -1,0 +1,100 @@
+{
+    "primaries" : [
+        {
+            "name" : "Flame Thrower",
+            "image" : "https://wiki.teamfortress.com/w/images/3/33/Backpack_Flame_Thrower.png"
+        },
+        {
+            "name" : "Backburner",
+            "image" : "https://wiki.teamfortress.com/w/images/2/20/Backpack_Backburner.png"
+        },
+        {
+            "name" : "Degreaser",
+            "image" : "https://wiki.teamfortress.com/w/images/f/fa/Backpack_Degreaser.png"
+        },
+        {
+            "name" : "Phlogistinator",
+            "image" : "https://wiki.teamfortress.com/w/images/9/9b/Backpack_Phlogistinator.png"
+        },
+        {
+            "name" : "Dragon's Fury",
+            "image" : "https://wiki.teamfortress.com/w/images/5/59/Backpack_Dragon%27s_Fury.png"
+        }
+    ],
+    "secondaries" : [
+        {
+            "name" : "Shotgun",
+            "image" : "https://wiki.teamfortress.com/w/images/c/c9/Backpack_Shotgun.png"
+        },
+        {
+            "name" : "Flare Gun",
+            "image" : "https://wiki.teamfortress.com/w/images/1/1d/Backpack_Flare_Gun.png"
+        },
+        {
+            "name" : "Detonator",
+            "image" : "https://wiki.teamfortress.com/w/images/8/89/Backpack_Detonator.png"
+        },
+        {
+            "name" : "Reserve Shooter",
+            "image" : "https://wiki.teamfortress.com/w/images/0/0f/Backpack_Reserve_Shooter.png"
+        },
+        {
+            "name" : "Manmelter",
+            "image" : "https://wiki.teamfortress.com/w/images/5/5f/Backpack_Manmelter.png"
+        },
+        {
+            "name" : "Scorch Shot",
+            "image" : "https://wiki.teamfortress.com/w/images/a/a3/Backpack_Scorch_Shot.png"
+        },
+        {
+            "name" : "Panic Attack",
+            "image" : "https://wiki.teamfortress.com/w/images/b/b1/Backpack_Panic_Attack.png"
+        },
+        {
+            "name" : "Thermal Thruster",
+            "image" : "https://wiki.teamfortress.com/w/images/0/0f/Backpack_Thermal_Thruster.png"
+        },
+        {
+            "name" : "Gas Passer",
+            "image" : "https://wiki.teamfortress.com/w/images/5/53/Backpack_Gas_Passer.png"
+        }
+    ],
+    "melees" : [
+        {
+            "name" : "Fire Axe",
+            "image" : "https://wiki.teamfortress.com/w/images/e/ea/Backpack_Fire_Axe.png"
+        },
+        {
+            "name" : "Axtinguisher",
+            "image" : "https://wiki.teamfortress.com/w/images/7/79/Backpack_Axtinguisher.png"
+        },
+        {
+            "name" : "Homewrecker",
+            "image" : "https://wiki.teamfortress.com/w/images/9/9d/Backpack_Homewrecker.png"
+        },
+        {
+            "name" : "Powerjack",
+            "image" : "https://wiki.teamfortress.com/w/images/4/47/Backpack_Powerjack.png"
+        },
+        {
+            "name" : "Back Scratcher",
+            "image" : "https://wiki.teamfortress.com/w/images/b/bd/Backpack_Back_Scratcher.png"
+        },
+        {
+            "name" : "Volcano Fragment",
+            "image" : "https://wiki.teamfortress.com/w/images/6/6a/Backpack_Sharpened_Volcano_Fragment.png"
+        },
+        {
+            "name" : "Third Degree",
+            "image" : "https://wiki.teamfortress.com/w/images/f/fe/Backpack_Third_Degree.png"
+        },
+        {
+            "name" : "Neon Annihilator",
+            "image" : "https://wiki.teamfortress.com/w/images/4/40/Backpack_Neon_Annihilator.png"
+        },
+        {
+            "name" : "Hot Hand",
+            "image" : "https://wiki.teamfortress.com/w/images/8/81/Backpack_Hot_Hand.png"
+        }
+    ]
+}

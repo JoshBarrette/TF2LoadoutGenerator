@@ -1,0 +1,76 @@
+{
+    "primaries" : [
+        {
+            "name" : "Sniper Rifle",
+            "image" : "https://wiki.teamfortress.com/w/images/3/30/Backpack_Sniper_Rifle.png"
+        },
+        {
+            "name" : "Huntsman",
+            "image" : "https://wiki.teamfortress.com/w/images/f/fb/Backpack_Huntsman.png"
+        },
+        {
+            "name" : "Sydney Sleeper",
+            "image" : "https://wiki.teamfortress.com/w/images/b/bc/Backpack_Sydney_Sleeper.png"
+        },
+        {
+            "name" : "Bazaar Bargain",
+            "image" : "https://wiki.teamfortress.com/w/images/3/3f/Backpack_Bazaar_Bargain.png"
+        },
+        {
+            "name" : "Machina",
+            "image" : "https://wiki.teamfortress.com/w/images/e/e3/Backpack_Machina.png"
+        },
+        {
+            "name" : "Hitman's Heatmaker",
+            "image" : "https://wiki.teamfortress.com/w/images/c/c1/Backpack_Hitman%27s_Heatmaker.png"
+        },
+        {
+            "name" : "Classic",
+            "image" : "https://wiki.teamfortress.com/w/images/c/ca/Backpack_Classic.png"
+        }
+    ],
+    "secondaries" : [
+        {
+            "name" : "SMG",
+            "image" : "https://wiki.teamfortress.com/w/images/e/ee/Backpack_SMG.png"
+        },
+        {
+            "name" : "Jarate",
+            "image" : "https://wiki.teamfortress.com/w/images/f/f8/Backpack_Jarate.png"
+        },
+        {
+            "name" : "Razorback",
+            "image" : "https://wiki.teamfortress.com/w/images/7/77/Backpack_Razorback.png"
+        },
+        {
+            "name" : "Darwin's Danger Shield",
+            "image" : "https://wiki.teamfortress.com/w/images/7/7e/Backpack_Darwin%27s_Danger_Shield.png"
+        },
+        {
+            "name" : "Cozy Camper",
+            "image" : "https://wiki.teamfortress.com/w/images/6/6d/Backpack_Cozy_Camper.png"
+        },
+        {
+            "name" : "Cleaner's Carbine",
+            "image" : "https://wiki.teamfortress.com/w/images/d/d2/Backpack_Cleaner%27s_Carbine.png"
+        }
+    ],
+    "melees" : [
+        {
+            "name" : "Kukri",
+            "image" : "https://wiki.teamfortress.com/w/images/b/b8/Backpack_Kukri.png"
+        },
+        {
+            "name" : "Tribalman's Shiv",
+            "image" : "https://wiki.teamfortress.com/w/images/0/06/Backpack_Tribalman%27s_Shiv.png"
+        },
+        {
+            "name" : "Bushwacka",
+            "image" : "https://wiki.teamfortress.com/w/images/8/86/Backpack_Bushwacka.png"
+        },
+        {
+            "name" : "Shahanshah",
+            "image" : "https://wiki.teamfortress.com/w/images/9/93/Backpack_Shahanshah.png"
+        }
+    ]
+}

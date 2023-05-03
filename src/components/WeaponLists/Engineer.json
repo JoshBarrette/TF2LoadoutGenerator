@@ -1,0 +1,63 @@
+{
+    "primaries" : [
+        {
+            "name" : "Shotgun",
+            "image" : "https://wiki.teamfortress.com/w/images/c/c9/Backpack_Shotgun.png"
+        },
+        {
+            "name" : "Frontier Justice",
+            "image" : "https://wiki.teamfortress.com/w/images/b/b7/Backpack_Frontier_Justice.png"
+        },
+        {
+            "name" : "Widowmaker",
+            "image" : "https://wiki.teamfortress.com/w/images/8/8f/Backpack_Widowmaker.png"
+        },
+        {
+            "name" : "Pomson 6000",
+            "image" : "https://wiki.teamfortress.com/w/images/b/bd/Backpack_Pomson_6000.png"
+        },
+        {
+            "name" : "Rescue Range",
+            "image" : "https://wiki.teamfortress.com/w/images/d/d6/Backpack_Rescue_Ranger.png"
+        },
+        {
+            "name" : "Panic Attack",
+            "image" : "https://wiki.teamfortress.com/w/images/b/b1/Backpack_Panic_Attack.png"
+        }
+    ],
+    "secondaries" : [
+        {
+            "name" : "Pistol",
+            "image" : "https://wiki.teamfortress.com/w/images/f/f0/Backpack_Pistol.png"
+        },{
+            "name" : "Wrangler",
+            "image" : "https://wiki.teamfortress.com/w/images/7/77/Backpack_Wrangler.png"
+        },
+        {
+            "name" : "Short Circuit",
+            "image" : "https://wiki.teamfortress.com/w/images/1/17/Backpack_Short_Circuit.png"
+        }
+    ],
+    "melees" : [
+        {
+            "name" : "Wrench",
+            "image" : "https://wiki.teamfortress.com/w/images/5/52/Backpack_Wrench.png"
+        },
+        {
+            "name" : "Gunslinger",
+            "image" : "https://wiki.teamfortress.com/w/images/b/bf/Backpack_Gunslinger.png"
+        },
+        {
+            "name" : "Southern Hospitality",
+            "image" : "https://wiki.teamfortress.com/w/images/3/3c/Backpack_Southern_Hospitality.png"
+        },
+        {
+            "name" : "Jag",
+            "image" : "https://wiki.teamfortress.com/w/images/c/cf/Backpack_Jag.png"
+        },
+        {
+            "name" : "Eureka Effect",
+            "image" : "https://wiki.teamfortress.com/w/images/4/4f/Backpack_Eureka_Effect.png"
+        }
+    ]
+}

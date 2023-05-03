@@ -1,0 +1,96 @@
+{
+    "primaries" : [
+        {
+            "name" : "Scattergun",
+            "image" : "https://wiki.teamfortress.com/w/images/7/74/Backpack_Scattergun.png"
+        },
+        {
+            "name" : "Force-A-Nature",
+            "image" : "https://wiki.teamfortress.com/w/images/b/bc/Backpack_Force-A-Nature.png"
+        },
+        {
+            "name" : "Shortstop",
+            "image" : "https://wiki.teamfortress.com/w/images/c/cd/Backpack_Shortstop.png"
+        },
+        {
+            "name" : "Soda Popper",
+            "image" : "https://wiki.teamfortress.com/w/images/8/86/Backpack_Soda_Popper.png"
+        },
+        {
+            "name" : "Baby Face's Blaster",
+            "image" : "https://wiki.teamfortress.com/w/images/7/77/Backpack_Baby_Face%27s_Blaster.png"
+        },
+        {
+            "name" : "Back Scatter",
+            "image" : "https://wiki.teamfortress.com/w/images/6/6e/Backpack_Back_Scatter.png"
+        }
+    ],
+    "secondaries" : [
+        {
+            "name" : "Pistol",
+            "image" : "https://wiki.teamfortress.com/w/images/f/f0/Backpack_Pistol.png"
+        },
+        {
+            "name" : "Bonk! Atomic Punch",
+            "image" : "https://wiki.teamfortress.com/w/images/5/55/Backpack_Bonk%21_Atomic_Punch.png"
+        },
+        {
+            "name" : "Crit-a-Cola",
+            "image" : "https://wiki.teamfortress.com/w/images/0/07/Backpack_Crit-a-Cola.png"
+        },
+        {
+            "name" : "Mad Milk",
+            "image" : "https://wiki.teamfortress.com/w/images/0/0e/Backpack_Mad_Milk.png"
+        },
+        {
+            "name" : "Winger",
+            "image" : "https://wiki.teamfortress.com/w/images/5/5b/Backpack_Winger.png"
+        },
+        {
+            "name" : "Pretty Boy's Pocket Pistol",
+            "image" : "https://wiki.teamfortress.com/w/images/8/8d/Backpack_Pretty_Boy%27s_Pocket_Pistol.png"
+        },
+        {
+            "name" : "Flying Guillotine",
+            "image" : "https://wiki.teamfortress.com/w/images/a/a1/Backpack_Flying_Guillotine.png"
+        }
+    ],
+    "melees" : [
+        {
+            "name" : "Bat",
+            "image" : "https://wiki.teamfortress.com/w/images/d/d1/Backpack_Bat.png"
+        },
+        {
+            "name" : "Holy Mackerel",
+            "image" : "https://wiki.teamfortress.com/w/images/4/42/Backpack_Holy_Mackerel.png"
+        },
+        {
+            "name" : "Sandman",
+            "image" : "https://wiki.teamfortress.com/w/images/f/f5/Backpack_Sandman.png"
+        },
+        {
+            "name" : "Candy Cane",
+            "image" : "https://wiki.teamfortress.com/w/images/1/12/Backpack_Candy_Cane.png"
+        },
+        {
+            "name" : "Boston Basher",
+            "image" : "https://wiki.teamfortress.com/w/images/4/4f/Backpack_Boston_Basher.png"
+        },
+        {
+            "name" : "Sun-on-a-Stick",
+            "image" : "https://wiki.teamfortress.com/w/images/3/36/Backpack_Sun-on-a-Stick.png"
+        },
+        {
+            "name" : "Fan O'War",
+            "image" : "https://wiki.teamfortress.com/w/images/4/44/Backpack_Fan_O%27War.png"
+        },
+        {
+            "name" : "Atomizer",
+            "image" : "https://wiki.teamfortress.com/w/images/2/25/Backpack_Atomizer.png"
+        },
+        {
+            "name" : "Wrap Assassin",
+            "image" : "https://wiki.teamfortress.com/w/images/d/de/Backpack_Wrap_Assassin.png"
+        }
+    ]
+}

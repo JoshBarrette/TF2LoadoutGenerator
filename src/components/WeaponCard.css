@@ -1,0 +1,31 @@
+#container {
+    flex: 1;
+    position: relative;
+    text-align: center;
+    width: 390px;
+    height: 390px;
+}
+
+#TextDiv {
+    text-align: center;
+    position: relative;
+    width: 390px;
+    bottom: 130px;
+    left: 20px;
+}
+
+#Text {
+    position: absolute;
+    font-family: TF2-Build;
+    width: 390px;
+    font-size: 30px;
+    color: #dcb920;
+}
+
+img {
+    border-style: solid;
+    border-width: 5px;
+    border-color: #dcb920;
+    border-radius: 10px;
+    background-color: #6e5918;
+}

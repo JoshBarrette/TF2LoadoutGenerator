@@ -1,0 +1,60 @@
+{
+    "primaries" : [
+        {
+            "name" : "Syringe Gun",
+            "image" : "https://wiki.teamfortress.com/w/images/b/bf/Backpack_Syringe_Gun.png"
+        },
+        {
+            "name" : "Blutsauger",
+            "image" : "https://wiki.teamfortress.com/w/images/a/af/Backpack_Blutsauger.png"
+        },
+        {
+            "name" : "Crusader's Crossbow",
+            "image" : "https://wiki.teamfortress.com/w/images/9/92/Backpack_Crusader%27s_Crossbow.png"
+        },
+        {
+            "name" : "Overdos",
+            "image" : "https://wiki.teamfortress.com/w/images/1/16/Backpack_Overdose.png"
+        }
+    ],
+    "secondaries" : [
+        {
+            "name" : "Medi Gun",
+            "image" : "https://wiki.teamfortress.com/w/images/c/c7/Backpack_Medi_Gun.png"
+        },
+        {
+            "name" : "Kritzkrieg",
+            "image" : "https://wiki.teamfortress.com/w/images/6/61/Backpack_Kritzkrieg.png"
+        },
+        {
+            "name" : "Quick-Fix",
+            "image" : "https://wiki.teamfortress.com/w/images/1/17/Backpack_Quick-Fix.png"
+        },
+        {
+            "name" : "Vaccinator",
+            "image" : "https://wiki.teamfortress.com/w/images/8/86/Backpack_Vaccinator.png"
+        }
+    ],
+    "melees" : [
+        {
+            "name" : "Bonesaw",
+            "image" : "https://wiki.teamfortress.com/w/images/9/95/Backpack_Bonesaw.png"
+        },
+        {
+            "name" : "Ubersaw",
+            "image" : "https://wiki.teamfortress.com/w/images/2/2e/Backpack_Ubersaw.png"
+        },
+        {
+            "name" : "Vita-Saw",
+            "image" : "https://wiki.teamfortress.com/w/images/5/54/Backpack_Vita-Saw.png"
+        },
+        {
+            "name" : "Amputator",
+            "image" : "https://wiki.teamfortress.com/w/images/b/b6/Backpack_Amputator.png"
+        },
+        {
+            "name" : "Solemn Vow",
+            "image" : "https://wiki.teamfortress.com/w/images/5/51/Backpack_Solemn_Vow.png"
+        }
+    ]
+}

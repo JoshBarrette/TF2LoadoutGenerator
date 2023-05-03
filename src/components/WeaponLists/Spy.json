@@ -1,0 +1,70 @@
+{
+    "primaries" : [
+        {
+            "name" : "Revolver",
+            "image" : "https://wiki.teamfortress.com/w/images/4/48/Backpack_Revolver.png"
+        },
+        {
+            "name" : "Ambassador",
+            "image" : "https://wiki.teamfortress.com/w/images/d/db/Backpack_Ambassador.png"
+        },
+        {
+            "name" : "L'Etranger",
+            "image" : "https://wiki.teamfortress.com/w/images/1/1a/Backpack_L%27Etranger.png"
+        },
+        {
+            "name" : "Enforcer",
+            "image" : "https://wiki.teamfortress.com/w/images/d/da/Backpack_Enforcer.png"
+        },
+        {
+            "name" : "Diamondback",
+            "image" : "https://wiki.teamfortress.com/w/images/3/39/Backpack_Diamondback.png"
+        }
+    ],
+    "secondaries" : [
+        {
+            "name" : "Sapper",
+            "image" : "https://wiki.teamfortress.com/w/images/d/de/Backpack_Electro_Sapper.png"
+        },
+        {
+            "name" : "Red-Tape Recorder",
+            "image" : "https://wiki.teamfortress.com/w/images/0/0c/Backpack_Red-Tape_Recorder.png"
+        }
+    ],
+    "melees" : [
+        {
+            "name" : "Knife",
+            "image" : "https://wiki.teamfortress.com/w/images/1/12/Backpack_Knife.png"
+        },
+        {
+            "name" : "Your Eternal Reward",
+            "image" : "https://wiki.teamfortress.com/w/images/8/88/Backpack_Your_Eternal_Reward.png"
+        },
+        {
+            "name" : "Conniver's Kunai",
+            "image" : "https://wiki.teamfortress.com/w/images/c/c6/Backpack_Conniver%27s_Kunai.png"
+        },
+        {
+            "name" : "Big Earner",
+            "image" : "https://wiki.teamfortress.com/w/images/5/59/Backpack_Big_Earner.png"
+        },
+        {
+            "name" : "Spy-cicle",
+            "image" : "https://wiki.teamfortress.com/w/images/d/d6/Backpack_Spy-cicle.png"
+        }
+    ],
+    "watches" : [
+        {
+            "name" : "Invis Watch",
+            "image" : "https://wiki.teamfortress.com/w/images/d/d9/Backpack_Invisibility_Watch.png"
+        },
+        {
+            "name" : "Cloak and Dagger",
+            "image" : "https://wiki.teamfortress.com/w/images/6/63/Backpack_Cloak_and_Dagger.png"
+        },
+        {
+            "name" : "Dead Ringer",
+            "image" : "https://wiki.teamfortress.com/w/images/a/a2/Backpack_Dead_Ringer.png"
+        }
+    ]
+}

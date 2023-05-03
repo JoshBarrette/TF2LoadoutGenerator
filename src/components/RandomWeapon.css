@@ -1,0 +1,57 @@
+@import url('../Fonts/tf2build.css');
+
+img {
+    max-width: 380px;
+    min-width: 200px;
+    margin: 20px;
+}
+
+button {
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 30px;
+    font-family: TF2-Build;
+    border: none;
+    background-color: #d26f10;
+    color: #252525;
+    border-radius: 5px;
+    border-color: #000000;
+}
+
+button:active {
+    background-color: rgba(160, 60, 0, 1);
+}
+
+button:hover {
+    color: black;
+    box-shadow: 0px 0px 4px 4px rgb(0,0,0);
+}
+
+#MainDiv {
+    position: relative;
+}
+
+#ClassButtonsDiv {
+    padding-top: 40px;
+    margin-top: -10px;
+}
+
+#CardsDiv {
+    position: relative;
+    top: 20px;
+    display: inline-flex;
+}
+
+#RandomizeButtonDiv {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 40px;
+    bottom: -200px
+}
+
+#RandomizeButton {
+    font-size: 50px;
+}

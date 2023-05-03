@@ -1,0 +1,92 @@
+{
+    "primaries" : [
+        {
+            "name" : "Grenade Launcher",
+            "image" : "https://wiki.teamfortress.com/w/images/7/74/Backpack_Grenade_Launcher.png"
+        },
+        {
+            "name" : "Loch-n-Load",
+            "image" : "https://wiki.teamfortress.com/w/images/9/9e/Backpack_Loch-n-Load.png"
+        },
+        {
+            "name" : "Ali Baba's Wee Booties",
+            "image" : "https://wiki.teamfortress.com/w/images/6/64/Backpack_Ali_Baba%27s_Wee_Booties.png"
+        },
+        {
+            "name" : "Loose Cannon",
+            "image" : "https://wiki.teamfortress.com/w/images/d/d4/Backpack_Loose_Cannon.png"
+        },
+        {
+            "name" : "B.A.S.E. Jumper",
+            "image" : "https://wiki.teamfortress.com/w/images/e/e3/Backpack_B.A.S.E._Jumper.png"
+        },
+        {
+            "name" : "Iron Bomber",
+            "image" : "https://wiki.teamfortress.com/w/images/7/73/Backpack_Iron_Bomber.png"
+        }
+    ],
+    "secondaries" : [
+        {
+            "name" : "Stickybomb Launcher",
+            "image" : "https://wiki.teamfortress.com/w/images/4/49/Backpack_Stickybomb_Launcher.png"
+        },
+        {
+            "name" : "Chargin' Targe",
+            "image" : "https://wiki.teamfortress.com/w/images/2/2f/Backpack_Chargin%27_Targe.png"
+        },
+        {
+            "name" : "Scottish Resistance",
+            "image" : "https://wiki.teamfortress.com/w/images/d/d4/Backpack_Scottish_Resistance.png"
+        },
+        {
+            "name" : "Sticky Jumper",
+            "image" : "https://wiki.teamfortress.com/w/images/6/68/Backpack_Sticky_Jumper.png"
+        },
+        {
+            "name" : "Splendid Screen",
+            "image" : "https://wiki.teamfortress.com/w/images/4/43/Backpack_Splendid_Screen.png"
+        },
+        {
+            "name" : "Tide Turner",
+            "image" : "https://wiki.teamfortress.com/w/images/0/01/Backpack_Tide_Turner.png"
+        },
+        {
+            "name" : "Quickiebomb Launcher",
+            "image" : "https://wiki.teamfortress.com/w/images/6/6b/Backpack_Quickiebomb_Launcher.png"
+        }
+    ],
+    "melees" : [
+        {
+            "name" : "Bottle",
+            "image" : "https://wiki.teamfortress.com/w/images/7/72/Backpack_Bottle.png"
+        },
+        {
+            "name" : "Eyelander",
+            "image" : "https://wiki.teamfortress.com/w/images/7/7e/Backpack_Eyelander.png"
+        },
+        {
+            "name" : "Pain Train",
+            "image" : "https://wiki.teamfortress.com/w/images/3/35/Backpack_Pain_Train.png"
+        },
+        {
+            "name" : "Scotsman's Skullcutter",
+            "image" : "https://wiki.teamfortress.com/w/images/8/81/Backpack_Scotsman%27s_Skullcutter.png"
+        },
+        {
+            "name" : "Claidheamh Mòr",
+            "image" : "https://wiki.teamfortress.com/w/images/a/af/Backpack_Claidheamh_M%C3%B2r.png"
+        },
+        {
+            "name" : "Ullapool Caber",
+            "image" : "https://wiki.teamfortress.com/w/images/3/31/Backpack_Ullapool_Caber.png"
+        },
+        {
+            "name" : "Half-Zatoichi",
+            "image" : "https://wiki.teamfortress.com/w/images/5/58/Backpack_Half-Zatoichi.png"
+        },
+        {
+            "name" : "Persian Persuader",
+            "image" : "https://wiki.teamfortress.com/w/images/2/2d/Backpack_Persian_Persuader.png"
+        }
+    ]
+}
