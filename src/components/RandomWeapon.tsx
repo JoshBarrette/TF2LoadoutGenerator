@@ -22,9 +22,9 @@ function RandomWeapon() {
     const [meleeIndex, setMeleeIndex] = React.useState(0);
     const [watchIndex, setWatchIndex] = React.useState(0);
     const [fourthImage, setFourthImage] = React.useState(false);
-    const [classNum, setClassNum] = React.useState(0);
+    const [classNum, setClassNum] = React.useState(1);
 
-    const changePrimary = () => {
+    const randomizeWeapons = () => {
         let num = primaryIndex + 1;
         if (num > primaries.length - 1) {
             num = 0;
@@ -40,9 +40,9 @@ function RandomWeapon() {
     }
 
     const changeClass = (newClassNum: number) => {
-        if (newClassNum == classNum) {
+        if (newClassNum === classNum) {
             return;
-        } else if (newClassNum == 9) {
+        } else if (newClassNum === 8) {
             setFourthImage(true);
         } else {
             setFourthImage(false);
@@ -54,7 +54,7 @@ function RandomWeapon() {
         setMeleeIndex(0);
         setWatchIndex(0);
 
-        let newClass = require(`./WeaponLists/${classes[newClassNum - 1]}.json`);
+        let newClass = require(`./WeaponLists/${classes[newClassNum]}.json`);
         primaries = newClass.primaries;
         secondaries = newClass.secondaries;
         melees = newClass.melees;
@@ -63,15 +63,11 @@ function RandomWeapon() {
     return (
         <div id="MainDiv">
             <div id="ClassButtonsDiv">
-                <button onClick={() => changeClass(1)}>Scout</button>
-                <button onClick={() => changeClass(2)}>Soldier</button>
-                <button onClick={() => changeClass(3)}>Pyro</button>
-                <button onClick={() => changeClass(4)}>Demoman</button>
-                <button onClick={() => changeClass(5)}>Heavy</button>
-                <button onClick={() => changeClass(6)}>Engineer</button>
-                <button onClick={() => changeClass(7)}>Medic</button>
-                <button onClick={() => changeClass(8)}>Sniper</button>
-                <button onClick={() => changeClass(9)}>Spy</button>
+                {classes.map((currentClass, index) => (
+                    <button key={currentClass} className="MapButton" onClick={() => changeClass(index)}>
+                        {currentClass}
+                    </button>
+                ))};
                 <button onClick={randomClass}>Random Class</button>
             </div>
 
@@ -83,7 +79,7 @@ function RandomWeapon() {
             </div>
 
             <div id="RandomizeButtonDiv">
-                <button id="RandomizeButton" onClick={changePrimary}>Randomize</button>
+                <button id="RandomizeButton" onClick={randomizeWeapons}>Randomize</button>
             </div>
         </div>
     )
